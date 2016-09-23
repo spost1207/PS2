@@ -120,5 +120,5 @@ public class MyInteger {
 		else 
 			return false;
 	}
+	//Myinteger class i added
 }
-//My integer class that i added
